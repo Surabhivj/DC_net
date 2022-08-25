@@ -10,5 +10,4 @@ python2 -m pip install pycrypto
 #python2 -m pip install -e git://github.com/simonsfoundation/jp_gene_viz#egg=jp_gene_viz
 python2 -m pip install scipy
 python2 -m pip install --upgrade ipykernel
-pip install python-igraph
-pip install igraph
+python2 -m pip install igraph
