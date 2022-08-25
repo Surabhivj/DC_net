@@ -1,7 +1,7 @@
 # dc_network
 Dendritic call regulatory network explorer
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/flatironinstitute/dc_network/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Surabhivj/DC_net/vis)
 
 This repository uses Jupyter notebooks and encrypted data.
 
